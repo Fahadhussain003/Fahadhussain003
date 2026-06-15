@@ -68,10 +68,6 @@
 
 ✔ Page Object Model (POM)
 
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🚀 Featured Projects
 
 ### 🧪 Selenium Automation Framework
